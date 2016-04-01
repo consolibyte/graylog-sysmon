@@ -1,0 +1,22 @@
+{
+	"monitors": [
+
+		{
+			"type": "PyMySQL", 
+
+			"host": "localhost",
+			"username": "",
+			"password": "",
+			"database": ""
+
+		},
+
+		{
+			"type": "resque",
+			"host": "localhost",
+			"port": 6379
+		}
+
+	]
+
+}
